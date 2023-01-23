@@ -10,6 +10,10 @@ DISCLAIMERS: The code isn't very tidy. Nonetheless, it serves as a simple exampl
 
 ![A preview of the program](preview.gif)
 
+<p align="center">
+  <img src="preview.gif" />
+</p>
+
 # The Renderer
 
 The 3D Renderer was built using the usual cross and dot products in R^3 and some geometric trickery, as seen in the image below.<br />
