@@ -52,6 +52,7 @@ I have also implemented a `python` script to generate a random world. Just run `
 The orbits are calculated using [Newton's Law of Gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation), the simplest way to describe gravity:
 
 $F = G{m*M \over r^2}$
+
 F: generated gravitational force (Newton)
 m: mass of object 1 (Kilogram)
 M: mass of object 2 (Kilogram)
