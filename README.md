@@ -76,6 +76,6 @@ Despite it's pompous name, it should be very natural and familiar for anyone who
 
 # Make the damn thing run!
 
-The program might not work right away, You'll need to link SDL2main and SDL2image, as well as dll files (Windows).<br />
+This project was originally developed using Visual Studio in Windows, but I have since started using VSCode in Linux, so it might not work right away if you plan on editing and building the code. With this said, if you wish to edit the code, be sure to link the `SDL2` library and `SDL2_image`, otherwise the program won't run. It's also best to use C++20 to use std::filesystem. In Windows you will also need the SDL2 dll files. The download already comes ready with a Linux Executable (built in Ubuntu).
 
 # Enjoy!!
