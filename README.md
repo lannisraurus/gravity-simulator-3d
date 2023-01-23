@@ -54,10 +54,15 @@ The orbits are calculated using [Newton's Law of Gravitation](https://en.wikiped
 $F = G{m*M \over r^2}$
 
 F: generated gravitational force (Newton)
+
 m: mass of object 1 (Kilogram)
+
 M: mass of object 2 (Kilogram)
+
 G: constant of gravitation (m^3s^-2kg^-1)
+
 r: distance between centers of mass (Meters)
+
 
 The implementation is far from rigorous, but it serves it's purpose.
 Naturally I did not solve any complicated analytical expressions, that would be quite impossible for more than two bodies if not for some special cases.
