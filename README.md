@@ -13,7 +13,7 @@ DISCLAIMERS: The code isn't very tidy. Nonetheless, it serves as a simple exampl
 
 The 3D Renderer was built using the usual cross and dot products in R^3 and some geometric trickery, as seen in the image below.<br />
 To render the planets I simply render two points: One along the center and another in the radius of the planet, and bind the image to that section.<br />
-The planets are sorted (quicksort) in terms of distance before rendering.<br />
+The planets are sorted (C++ introsort) in terms of distance before rendering.<br />
 
 ![This is an image](renderAlgorithm.png)
 
