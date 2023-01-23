@@ -8,8 +8,6 @@ This was a summer project that arose from the questions:
 This was my (naïve and experimental) solution. Not all the planned functionalities are working (settings and creating worlds).<br />
 DISCLAIMERS: The code isn't very tidy. Nonetheless, it serves as a simple example of 3D graphics and basic physics. The classes are all in .h files (I was experimenting to see if it'd be better than doing cpp and h (spoiler: it's not)).
 
-![A preview of the program](preview.gif)
-
 <p align="center">
   <img src="preview.gif" />
 </p>
