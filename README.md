@@ -9,7 +9,7 @@ DISCLAIMERS: The code isn't very tidy as I was feeling very experimental with th
 
 # The Renderer
 
-The 3D Renderer was built using the usual dot product in R^3 and some geometric trickery, as seen in the image below.
+The 3D Renderer was built using the usual cross and dot products in R^3 and some geometric trickery, as seen in the image below.
 To render the planets I simply render two points: One along the center and another in the radius of the planet, and bind the image to that section.
 The planets are sorted (quicksort) in terms of distance before rendering.
 
@@ -51,7 +51,7 @@ I have also implemented a `python` script to generate a random world. Just run `
 
 The orbits are calculated using [Newton's Law of Gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation), the simplest way to describe gravity:
 
-$$ F = G{m*M \over r^2} $$
+$F = G{m*M \over r^2}$
 F: generated gravitational force (Newton)
 m: mass of object 1 (Kilogram)
 M: mass of object 2 (Kilogram)
@@ -62,10 +62,10 @@ The implementation is far from rigorous, but it serves it's purpose.
 Naturally I did not solve any complicated analytical expressions, that would be quite impossible for more than two bodies if not for some special cases.
 What I did is simply, for small `dt`, which I will call a `time step` - The change of position is calculated from the velocity `v*dt`, which changes according to the acceleration `a*dt` which is obtained from the famous `F=ma` and the formula shown before.
 This is a mere numerical approximation to the 'real thing' - [Euler's Method](https://en.wikipedia.org/wiki/Euler_method).
-Despite it's pompous name, it should be very natural and familiar for anyone who has played video-games before (in fact, I didn't know the name of this procedure when making the project, it's simply intuitive)
+Despite it's pompous name, it should be very natural and familiar for anyone who has played video-games before (in fact, I didn't know the name of this procedure when making the project, it's simply intuitive).
 
 # Make the damn thing run!
 
 The program might not work right away, You'll need to link SDL2main and SDL2image, as well as dll files (Windows).
 
-# Enjoy!
+# Enjoy!!
