@@ -1,0 +1,30 @@
+camera_center 514.938 -33.5091 380
+camera_angles 2.546 -1.266
+
+planet_colour 30 200 20
+planet_position 359.365 73.9723 5
+planet_velocity 0.489922 0.186359 0
+planet_mass 1e+08
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 200 20 20
+planet_position 406.351 -7.69682 5
+planet_velocity -0.298871 0.279835 0
+planet_mass 1e+08
+planet_radius 1
+planet_texture 0
+create_planet
+
+planet_colour 255 200 0
+planet_position 499.994 5.01015 5
+planet_velocity -1.11489e-05 1.55895e-05 0
+planet_mass 1e+12
+planet_radius 5
+planet_texture 0
+create_planet
+
+
+
+end_file5

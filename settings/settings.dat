@@ -1,0 +1,6 @@
+dimensions 1080 720
+x_sensitivity 0.002
+y_sensitivity 0.002
+step 0.1
+camera_distance 1
+time_multiplier 2

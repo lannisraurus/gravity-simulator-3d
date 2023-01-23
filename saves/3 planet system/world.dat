@@ -1,0 +1,27 @@
+planet_colour 255 255 0
+planet_position 500 -100 0
+planet_velocity 0 0 0
+planet_mass 7e+10
+planet_radius 3
+planet_texture 0
+create_planet
+
+planet_colour 255 255 0
+planet_position 500 0 0
+planet_velocity -0.35 0 0
+planet_mass 7e+10
+planet_radius 3
+planet_texture 0
+create_planet
+
+planet_colour 255 255 0
+planet_position 500 100 0
+planet_velocity 0.2 0 0
+planet_mass 7e+10
+planet_radius 3
+planet_texture 0
+create_planet
+
+
+
+end_file5
