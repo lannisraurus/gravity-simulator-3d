@@ -30,7 +30,7 @@ Camera Center Position (x,y,z)<br />
 ```
 camera_center x y z
 ```
-Camera Angles xAngle->\[-pi,pi\] yAngle->\[-pi/2,pi/2\]:<br />
+Camera Angles xAngle->\[-π,π\] yAngle->\[-$π \over 2$,$π \over 2$\]:<br />
 ```
 camera_angles xAngle yAngle
 ```
