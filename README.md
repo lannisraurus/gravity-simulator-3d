@@ -10,3 +10,4 @@ The program might not work right away, You'll need to link SDL2main and SDL2imag
 The classes are all in .h files (I was experimenting to see if it'd be better than doing cpp and h (spoiler: it's not))
 
 Enjoy!!
+![This is an image](renderAlgorithm.png)
