@@ -1,0 +1,86 @@
+camera_center 3.6816e+09 -5.5943e+09 4.89807e+09
+camera_angles 2.158 -0.552
+
+planet_colour 0 0 255
+planet_position -3.41999e+08 7.63668e+09 0
+planet_velocity -1.41247 31.5398 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 255 255 255
+planet_position 3.46716e+09 4.90477e+09 0
+planet_velocity 14.32 20.2577 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 0 255 255
+planet_position -3.32483e+08 1.15361e+09 0
+planet_velocity -1.37317 4.76447 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 255 0 255
+planet_position -1.08015e+08 7.43521e+08 0
+planet_velocity -0.446106 3.07077 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 0 255 0
+planet_position 3.64902e+08 9.38192e+08 0
+planet_velocity 1.50706 3.87477 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 255 0 0
+planet_position -1.13731e+09 -3.3666e+08 0
+planet_velocity -4.69712 -1.39042 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 255 255 255
+planet_position 9.0922e+07 4.09407e+08 0
+planet_velocity 0.375514 1.69098 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 255 255 0
+planet_position -8.77004e+07 9.587e+07 0
+planet_velocity -0.362206 0.395944 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 255 255 255
+planet_position -2.71987e+06 2.16463e+07 0
+planet_velocity -0.0112353 0.0894013 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+planet_colour 255 255 255
+planet_position 3.48768e+07 -2.3553e+08 0
+planet_velocity 0.144042 -0.972745 0
+planet_mass 9e+30
+planet_radius 2
+planet_texture 0
+create_planet
+
+
+
+end_file5
