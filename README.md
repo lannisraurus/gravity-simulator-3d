@@ -1,4 +1,7 @@
 # Overview
+
+![A preview of the program](preview.gif)
+
 This was a summer project that arose from the questions:
 
 * How would I build a very basic 3D renderer without previous knowledge?
@@ -15,7 +18,7 @@ The 3D Renderer was built using the usual cross and dot products in R^3 and some
 To render the planets I simply render two points: One along the center and another in the radius of the planet, and bind the image to that section.<br />
 The planets are sorted (C++ introsort) in terms of distance before rendering.<br />
 
-![This is an image](renderAlgorithm.png)
+![My render algorithm](renderAlgorithm.png)
 
 
 
